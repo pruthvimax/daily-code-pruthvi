@@ -1,2 +1,9 @@
 # daily-code-pruthvi
 This repository contains my daily coding practice to improve my skills and maintain regular GitHub contributions.
+# Daily Coding – Pruthvi 💚
+
+This repository contains my daily coding practice to build consistency,
+improve programming skills, and prepare for placements.
+
+## Progress
+- Day 01: JavaScript basics
