@@ -7,3 +7,6 @@ improve programming skills, and prepare for placements.
 
 ## Progress
 - Day 01: JavaScript basics
+
+## progress
+- Day 02: Palidrome check using java (For Integer Inputs)
