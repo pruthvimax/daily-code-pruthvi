@@ -10,3 +10,6 @@ improve programming skills, and prepare for placements.
 
 ## progress
 - Day 02: Palidrome check using java (For Integer Inputs)
+
+## progress
+- Day 03: Find the largest number present in a given array of integers.
