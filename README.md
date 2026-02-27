@@ -13,3 +13,6 @@ improve programming skills, and prepare for placements.
 
 ## progress
 - Day 03: Find the largest number present in a given array of integers.
+
+## progress
+- Day 04: Determine whether a given string reads the same forward and backward.
